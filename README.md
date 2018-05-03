@@ -5,6 +5,7 @@
 - Assume basic Python knowledge.
 - Aim for effective Python
 - Not for expert Python
+- Encourage use Python 3.6+ (3.7 will come in 2 month)
 
 ## Contents:
 
